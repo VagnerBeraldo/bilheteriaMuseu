@@ -7,7 +7,7 @@ Os primeiros temas serão:
 1) 100 anos da semana de arte moderna.
 2) 150 anos de Santos Dumont
 3) Jogos olímpicos de Paris 2024
-4) Um tema ainda a ser definido pelo grupo (Tema escolhido: Indústria 4.0).
+4) Um tema ainda a ser definido (Tema escolhido: Indústria 4.0).
 
 Os visitantes serão incentivados a responder no terminal ao lado da obra exposta uma pesquisa em forma de questionário de múltipla escolha.
 Todos os terminais estarão conectados em rede de tal forma que os administradores da TI possam alterar ou copiar os arquivos com as respostas dos visitantes para análise.
